@@ -1,5 +1,9 @@
 #!/usr/bin/env python
-
+#
+# Solution to http://code.google.com/codejam/contests.html 
+# Code Jam 2013, Qualification Round: Tic-Tac-Toe-Tomek
+# Chris Desjardins - cjd@chrisd.info
+#
 import sys, os
 
 noWinner = "Game has not completed"
